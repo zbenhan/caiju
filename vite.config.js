@@ -9,7 +9,7 @@ export default defineConfig({
     react(),
     {
       name: 'copy-cname',
-      buildEnd() {
+      writeBundle() {
         // Copy CNAME file to dist directory
         copyFileSync(
           resolve(__dirname, 'CNAME'),
