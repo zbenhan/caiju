@@ -1,123 +1,46 @@
 [
     {
-        "id": "news_20260121_1",
-        "title": "冰雪经济滑上“高级道”",
-        "url": "http://www.news.cn/fortune/20260121/6a49eab56c7f4b47abf6a4b494e7e33b/c.html",
-        "source": "人民日报",
+        "id": "news_20260123_10",
+        "title": "中国贸促会：新兴产业催生会展新机遇",
+        "url": "https://www.news.cn/fortune/20260122/22a63c95b16042de8836c904eb6b8550/c.html",
+        "source": "新华社",
+        "tag": "国内",
+        "date": "2026-01-23",
+        "time": "22:24:36",
+        "abstract": "中国贸促会：新兴产业催生会展新机遇-",
+        "status": "pending"
+    },
+    {
+        "id": "news_20260123_1",
+        "title": "抢占“轻养生”赛道，让金字招牌释放新价值",
+        "url": "https://www.news.cn/fortune/20260122/1102ba01e6234229b8288a23f37353f3/c.html",
+        "source": "新华社",
         "tag": "国际",
-        "date": "2026-01-21",
-        "time": "07:36:54",
-        "abstract": "冰雪经济滑上“高级道”-\"这是新雪季以来，新疆阿勒泰在全国率先引进的冰雪体验项目——冰浮。\"",
-        "status": "approved"
+        "date": "2026-01-23",
+        "time": "21:25:25",
+        "abstract": "老字号·新潮牌丨抢占“轻养生”赛道，让金字招牌释放新价值-",
+        "status": "pending"
     },
     {
-        "id": "news_20260121_0",
-        "title": "居家适老化改造“工夫在诗外”",
-        "url": "http://www.news.cn/fortune/20260121/1c81fa510c92416c8da3f1d9f71b2f30/c.html",
-        "source": "经济日报",
-        "tag": "以前",
-        "date": "2026-01-21",
-        "time": "07:30:30",
-        "abstract": "居家适老化改造“工夫在诗外”- 该社区党委书记、居委会主任吴秀凤介绍，目前社区已有100多户老年人家庭自愿参与了居家适老化改造，但不少老人对收费项目接受度较低。",
-        "status": "approved"
+        "id": "news_20260123_2",
+        "title": "“笑声”里的消费力",
+        "url": "https://www.news.cn/fortune/20260122/27554f2f10d246d08ab5cc9658bbe1e2/c.html",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-23",
+        "time": "19:48:13",
+        "abstract": "人文经济激活消费新动能丨“笑声”里的消费力-",
+        "status": "pending"
     },
     {
-        "id": "news_2026-01-21_9",
-        "title": "欧洲央行暗示将继续加息",
-        "url": "http://example.com/domestic/article/9",
-        "source": "国内财经日报",
-        "tag": "国内",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_8",
-        "title": "深圳推出扶持中小企业新政策",
-        "url": "http://example.com/domestic/article/8",
-        "source": "国内财经日报",
-        "tag": "国内",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_7",
-        "title": "上海自贸区扩大开放措施落地",
-        "url": "http://example.com/regional/article/7",
-        "source": "区域财经资讯",
+        "id": "news_20260123_3",
+        "title": "报告显示：连锁餐饮发展从规模优先转向质效优先",
+        "url": "https://www.news.cn/fortune/20260122/c9f729beab804c838e070336a514bd99/c.html",
+        "source": "新华社",
         "tag": "区域",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_6",
-        "title": "日本央行调整收益率曲线控制政策",
-        "url": "http://example.com/regional/article/6",
-        "source": "区域财经资讯",
-        "tag": "区域",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_5",
-        "title": "City council approves new park project",
-        "url": "http://example.com/finance/article/5",
-        "source": "Gov Finance",
-        "tag": "Finance",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_4",
-        "title": "Unemployment rate drops to 3.5%",
-        "url": "http://example.com/social/article/4",
-        "source": "Social Daily",
-        "tag": "Social",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_3",
-        "title": "New policy on renewable energy released",
-        "url": "http://example.com/social/article/3",
-        "source": "Social Daily",
-        "tag": "Social",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_2",
-        "title": "Stock market hits all-time high",
-        "url": "http://example.com/social/article/2",
-        "source": "Social Daily",
-        "tag": "Social",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_1",
-        "title": "Local community center opens new wing",
-        "url": "http://example.com/finance/article/1",
-        "source": "Gov Finance",
-        "tag": "Finance",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_2026-01-21_0",
-        "title": "Central Bank announces new interest rates",
-        "url": "http://example.com/social/article/0",
-        "source": "Social Daily",
-        "tag": "Social",
-        "date": "2026-01-21",
-        "status": "approved"
-    },
-    {
-        "id": "news_seed_1",
-        "title": "Welcome to the Financial News Aggregator",
-        "url": "#",
-        "source": "System",
-        "tag": "Announcement",
-        "date": "2023-10-27",
-        "status": "approved"
+        "date": "2026-01-23",
+        "time": "17:48:35",
+        "abstract": "报告显示：连锁餐饮发展从规模优先转向质效优先-",
+        "status": "pending"
     }
 ]
