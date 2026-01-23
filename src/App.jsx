@@ -118,7 +118,7 @@ function App() {
                   <p>如果您觉得财新聚合对您有帮助，欢迎打赏支持我们的发展</p>
                   <div className="donation-qr">
                     <div className="qr-item">
-                      <img src="/RewardCode.png" alt="微信扫码" className="qr-image" />
+                      <img src="./RewardCode.png" alt="微信扫码" className="qr-image" />
                       <p className="qr-label">微信扫码</p>
                     </div>
                   </div>
