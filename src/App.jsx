@@ -11,11 +11,8 @@ function App() {
     console.log("Current URL:", window.location.href);
     console.log("Attempting to fetch news from: ./data/news.json");
     
-    // Use absolute URL for more reliable fetching
-    const newsUrl = new URL('./data/news.json', window.location.href).href;
-    console.log("Resolved news URL:", newsUrl);
-    
-    fetch(newsUrl)
+    // Use relative URL for fetching
+    fetch('./data/news.json')
       .then(res => {
         console.log("Fetch response status:", res.status);
         if (!res.ok) {
