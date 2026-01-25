@@ -31,15 +31,15 @@ function App() {
       })
   }, [])
 
-  const handleNewsClick = (item) => {
-    console.log(`[Analytics] User clicked on: ${item.id} - ${item.title}`)
-  }
-
   const [modalVisible, setModalVisible] = useState(false)
   const [modalContent, setModalContent] = useState({
     title: '',
     content: ''
   })
+
+  const handleNewsClick = (item) => {
+    console.log(`[Analytics] User clicked on: ${item.id} - ${item.title}`)
+  }
 
   const openModal = (title, content) => {
     setModalContent({ title, content })
@@ -88,7 +88,7 @@ function App() {
           <div className="news-content">
             <div className="news-list">
               {news.filter(item => item.tag === activeTab).map((item) => (
-                <article key={item.id} className="news-card">
+                <article key={item.id + '_' + item.title} className="news-card">
                   <div className="news-meta">
                     <span className="tag">{item.source}</span>
                     <span className="date">{item.date}</span>
