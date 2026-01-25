@@ -84,27 +84,38 @@ function App() {
             <div className="spinner"></div>
             <p className="loading-text">正在加载最新资讯...</p>
           </div>
-        ) : news.length > 0 ? (
+        ) : (
           <div className="news-content">
             <div className="news-list">
-              {news.filter(item => item.tag === activeTab).map((item) => (
-                <article key={item.id + '_' + item.title} className="news-card">
-                  <div className="news-meta">
-                    <span className="tag">{item.source}</span>
-                    <span className="date">{item.date}</span>
-                  </div>
-                  <h2>
-                    <a 
-                      href={item.url} 
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      onClick={() => handleNewsClick(item)}
-                    >
-                      {item.title}
-                    </a>
-                  </h2>
-                </article>
-              ))}
+              {(() => {
+                const filteredNews = news.filter(item => item.tag === activeTab);
+                if (filteredNews.length === 0) {
+                  return (
+                    <div className="empty-state">
+                      <h2>暂无资讯</h2>
+                      <p>请稍后再来查看更新。</p>
+                    </div>
+                  );
+                }
+                return filteredNews.map((item, index) => (
+                  <article key={index + '_' + item.tag + '_' + item.date} className="news-card">
+                    <div className="news-meta">
+                      <span className="tag">{item.source}</span>
+                      <span className="date">{item.date}</span>
+                    </div>
+                    <h2>
+                      <a 
+                        href={item.url} 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        onClick={() => handleNewsClick(item)}
+                      >
+                        {item.title}
+                      </a>
+                    </h2>
+                  </article>
+                ));
+              })()}
             </div>
             <div className="donation-section">
               <button className="donation-toggle" onClick={() => setShowDonation(!showDonation)}>
@@ -123,11 +134,6 @@ function App() {
                 </div>
               )}
             </div>
-          </div>
-        ) : (
-          <div className="empty-state">
-            <h2>暂无资讯</h2>
-            <p>请稍后再来查看更新。</p>
           </div>
         )}
       </main>
