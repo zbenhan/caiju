@@ -105,7 +105,7 @@ main {
 .news-list {
   display: flex;
   flex-direction: column;
-  gap: var(--spacing-lg);
+  gap: var(--spacing-md);
 }
 
 /* 新闻卡片 */
