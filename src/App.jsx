@@ -154,7 +154,7 @@ function App() {
           </div>
           <div className="footer-copyright">
             <p>&copy; {new Date().getFullYear()} 财信聚合 - caiju.link</p>
-            <p className="footer-description">一个简单的财经信息资讯聚合平台</p>
+            <p className="footer-description">一个简单的财经信息聚合平台</p>
           </div>
         </div>
       </footer>
