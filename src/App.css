@@ -278,6 +278,7 @@ main {
   border: 1px solid var(--color-border);
   margin-top: var(--spacing-md);
   animation: fadeIn 0.3s ease;
+  line-height: 1.4;
 }
 
 @keyframes fadeIn {
@@ -333,6 +334,44 @@ main {
   font-size: 0.9rem;
   color: var(--color-text-tertiary);
   font-style: italic;
+}
+
+.donation-instructions {
+  margin-top: var(--spacing-lg);
+  text-align: left;
+  background: rgba(255, 255, 255, 0.05);
+  padding: var(--spacing-lg);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.donation-instructions h4 {
+  color: var(--color-text-primary);
+  margin: 0 0 var(--spacing-md) 0;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.donation-instructions ol {
+  color: var(--color-text-secondary);
+  padding-left: var(--spacing-xl);
+  margin: 0;
+}
+
+.donation-instructions li {
+  margin-bottom: var(--spacing-xs);
+  line-height: 1.4;
+}
+
+.donation-instructions strong {
+  color: var(--color-text-primary);
+  font-weight: 600;
+}
+
+.donation-instructions ol ol {
+  padding-left: var(--spacing-lg);
+  margin-top: var(--spacing-xs);
+  margin-bottom: var(--spacing-xs);
 }
 
 /* 底部样式 */

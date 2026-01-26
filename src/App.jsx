@@ -122,13 +122,14 @@ function App() {
               </button>
               {showDonation && (
                 <div className="donation-card">
-                  <p>如果您觉得财新聚合对您有帮助，欢迎打赏支持我们的发展</p>
+                  <p>如果您觉得本站对您有帮助，欢迎打赏支持我们的发展</p>
                   <div className="donation-qr">
                     <div className="qr-item">
                       <img src="./RewardCode.png" alt="微信扫码" className="qr-image" />
                       <p className="qr-label">微信扫码</p>
                     </div>
                   </div>
+                  <p className="donation-note">操作方法：1、微信环境：直接长按“赞赏码”，进行扫描。2、⁮其他环境：（1）保存长按“赞赏码”保存；（2）打开微信扫一扫，扫描相册内图片。</p>	
                   <p className="donation-note">感谢您的每一份支持！</p>
                 </div>
               )}
@@ -153,7 +154,7 @@ function App() {
           </div>
           <div className="footer-copyright">
             <p>&copy; {new Date().getFullYear()} 财信聚合 - caiju.link</p>
-            <p className="footer-description">市场有风险，投资需谨慎</p>
+            <p className="footer-description">一个简单的财经信息资讯聚合平台</p>
           </div>
         </div>
       </footer>
