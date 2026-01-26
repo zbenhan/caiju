@@ -7,6 +7,13 @@
   flex: 1;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
+}
+
+/* 确保主要内容区域在手机上有合适的边距 */
+main {
+  width: 100%;
+  box-sizing: border-box;
 }
 
 /* 头部样式 */
@@ -47,7 +54,22 @@ main {
   gap: var(--spacing-md);
   margin-bottom: var(--spacing-xl);
   border-bottom: 1px solid var(--color-border);
-  padding-bottom: var(--spacing-xs);
+  padding-bottom: 0;
+  position: sticky;
+  top: 0;
+  background-color: var(--color-bg-primary);
+  z-index: 100;
+  padding-top: var(--spacing-md);
+  margin-top: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.tabs::-webkit-scrollbar {
+  display: none;
 }
 
 .tab-btn {
@@ -475,28 +497,29 @@ main {
 
 /* 响应式调整 */
 @media (max-width: 640px) {
+  /* 基础容器边距调整 */
+  .container {
+    padding: 0 var(--spacing-md);
+    max-width: 100%;
+  }
+  
+  /* 头部调整 */
   .site-header h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   
-  .news-card {
-    padding: var(--spacing-md);
+  .site-header {
+    padding: var(--spacing-md) 0;
+    margin-bottom: var(--spacing-md);
   }
   
-  .news-meta {
-    flex-wrap: wrap;
-    gap: var(--spacing-xs) var(--spacing-md);
-  }
-  
-  .donation-qr {
-    flex-direction: column;
-    align-items: center;
-  }
-
+  /* 选项卡调整 */
   .tabs {
-    overflow-x: auto;
-    justify-content: flex-start;
-    padding-bottom: 0;
+    justify-content: center;
+    margin-left: calc(-1 * var(--spacing-md));
+    margin-right: calc(-1 * var(--spacing-md));
+    padding-left: var(--spacing-md);
+    padding-right: var(--spacing-md);
   }
   
   .tab-btn {
@@ -504,7 +527,50 @@ main {
     padding: var(--spacing-sm) var(--spacing-md);
   }
   
-  /* 底部响应式调整 */
+  /* 新闻卡片调整 */
+  .news-card {
+    padding: var(--spacing-md);
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .news-meta {
+    flex-wrap: wrap;
+    gap: var(--spacing-xs) var(--spacing-md);
+  }
+  
+  /* 捐赠部分调整 */
+  .donation-section {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .donation-qr {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .donation-toggle {
+    padding: var(--spacing-md);
+  }
+  
+  .donation-toggle h3 {
+    font-size: 1.1rem;
+  }
+  
+  .donation-card {
+    padding: var(--spacing-md);
+  }
+  
+  /* 底部调整 */
+  .site-footer {
+    margin-left: calc(-1 * var(--spacing-md));
+    margin-right: calc(-1 * var(--spacing-md));
+    padding-left: var(--spacing-md);
+    padding-right: var(--spacing-md);
+    width: calc(100% + 2 * var(--spacing-md));
+  }
+  
   .footer-links {
     gap: var(--spacing-xs);
   }
@@ -518,7 +584,7 @@ main {
     font-size: 0.8rem;
   }
   
-  /* 模态框响应式调整 */
+  /* 模态框调整 */
   .modal-content {
     width: 95%;
     margin: var(--spacing-md);
@@ -532,16 +598,12 @@ main {
     padding: var(--spacing-md);
   }
   
-  /* 捐赠部分响应式调整 */
-  .donation-toggle {
-    padding: var(--spacing-md);
-  }
-  
-  .donation-toggle h3 {
-    font-size: 1.1rem;
-  }
-  
-  .donation-card {
-    padding: var(--spacing-md);
+  /* 确保所有主要内容块都有合适的边距 */
+  .news-content,
+  .loading-container,
+  .empty-state {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
   }
 }

@@ -61,8 +61,7 @@ function App() {
     <div className="container">
       <header className="site-header">
         <div className="header-content">
-          <h1>财信聚合</h1>
-          <p>专业财经资讯聚合平台 - caiju.link</p>
+          <h1>财信聚合 - caiju.link</h1>
         </div>
       </header>
 
