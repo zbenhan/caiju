@@ -61,16 +61,13 @@ main {
   z-index: 100;
   padding-top: var(--spacing-md);
   margin-top: 0;
-  overflow-x: auto;
+  overflow-x: hidden;
   overflow-y: hidden;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
+  width: 100%;
+  box-sizing: border-box;
 }
 
-.tabs::-webkit-scrollbar {
-  display: none;
-}
+
 
 .tab-btn {
   background: none;
