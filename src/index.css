@@ -56,6 +56,7 @@ body {
   min-height: 100vh;
   background-color: var(--color-bg-primary);
   color: var(--color-text-primary);
+  overflow-x: hidden;
 }
 
 #root {
@@ -65,20 +66,21 @@ body {
   flex-direction: column;
 }
 
-/* 滚动条美化 */
+/* 隐藏滚动条，但保持滚动功能 */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 0;
+  height: 0;
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--color-bg-primary); 
-}
- 
-::-webkit-scrollbar-thumb {
-  background: var(--color-bg-tertiary); 
-  border-radius: 4px;
+  background: transparent;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: var(--color-text-tertiary); 
+::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* Firefox 滚动条隐藏 */
+* {
+  scrollbar-width: none;
 }
