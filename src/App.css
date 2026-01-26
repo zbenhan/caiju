@@ -517,8 +517,8 @@ main {
   /* 选项卡调整 */
   .tabs {
     justify-content: center;
-    margin-left: calc(-1 * var(--spacing-md));
-    margin-right: calc(-1 * var(--spacing-md));
+    margin-left: 0;
+    margin-right: 0;
     padding-left: var(--spacing-md);
     padding-right: var(--spacing-md);
   }
