@@ -96,7 +96,19 @@ function App() {
                     </div>
                   );
                 }
-                return filteredNews.map((item, index) => (
+                // 按日期和时间倒序排序
+                const sortedNews = filteredNews.sort((a, b) => {
+                  // 首先比较日期
+                  const dateComparison = new Date(b.date) - new Date(a.date);
+                  if (dateComparison !== 0) {
+                    return dateComparison;
+                  }
+                  // 如果日期相同，比较时间
+                  const timeA = a.time || '00:00:00';
+                  const timeB = b.time || '00:00:00';
+                  return timeB.localeCompare(timeA);
+                });
+                return sortedNews.map((item, index) => (
                   <article key={index + '_' + item.tag + '_' + item.date} className="news-card">
                     <div className="news-meta">
                       <span className="tag">{item.source}</span>
