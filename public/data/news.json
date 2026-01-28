@@ -3573,5 +3573,49 @@
         "time": "16:01:23",
         "abstract": "据美国《国际财经时报》网站报道，一位美国议员发帖感谢美国总统特朗普，但帖文却意外保留了一段疑似来自白宫的发帖指令。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "马克龙：格陵兰岛局势为整个欧洲敲响战略警钟",
+        "url": "https://world.huanqiu.com/article/4Q9AqwlMjJ9",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "18:00:58",
+        "abstract": "法国总统马克龙28日会晤丹麦首相弗雷泽里克森和格陵兰岛自治政府总理延斯-弗雷德里克·尼尔森时说，近期发生的事件表明，格陵兰岛局势为整个欧洲敲响了战略警钟。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "伊朗副外长：做好200%的自卫准备",
+        "url": "https://world.huanqiu.com/article/4Q9AnmAIlov",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "18:00:58",
+        "abstract": "伊朗副外长加里巴巴迪28日表示，伊朗的首要任务是“做好200%的自卫准备”。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "土耳其外长：美国应“逐一解决”与伊朗所有争端",
+        "url": "https://world.huanqiu.com/article/4Q9AouaTpq2",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "18:00:58",
+        "abstract": "费丹在采访中重申，土耳其反对任何外国干涉或打击伊朗。“对伊朗发动进攻是错误的，再次发动战争是错误的。”",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "中国向巴勒斯坦难民提供胰岛素注射器",
+        "url": "https://world.huanqiu.com/article/4Q9As2VMACo",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "18:00:58",
+        "abstract": "据了解，目前在约旦约有3万名患糖尿病的巴勒斯坦难民，其中1.4万人需要每天注射胰岛素。",
+        "status": "pending"
     }
 ]
