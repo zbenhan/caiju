@@ -3617,5 +3617,49 @@
         "time": "18:00:58",
         "abstract": "据了解，目前在约旦约有3万名患糖尿病的巴勒斯坦难民，其中1.4万人需要每天注射胰岛素。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "德国总理：乌克兰加入欧盟不可能迅速完成",
+        "url": "https://world.huanqiu.com/article/4Q9LICFi1aN",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "22:36:39",
+        "abstract": "德国总理默茨当地时间1月28日表示，乌克兰没有机会迅速加入欧盟。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "德国经济部长：美国提高关税对全球贸易造成压力",
+        "url": "https://world.huanqiu.com/article/4Q9LOXNpIW1",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "22:36:39",
+        "abstract": "美国提高关税正在对全球贸易造成压力，这些关税阻碍了既有的供应链。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "哥伦比亚失联客机确认坠毁 机上15人全部遇难",
+        "url": "https://world.huanqiu.com/article/4Q9LOgh3V97",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "22:36:39",
+        "abstract": "根据航空公司公布的名单，机上共有13名乘客和2名机组人员，其中包括一名国会议员及一名总统候选人。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "美联储主席鲍威尔向继任者提议：与美国政治“划清界限”",
+        "url": "https://world.huanqiu.com/article/4Q9LElUVFEb",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-28",
+        "time": "22:36:39",
+        "abstract": "当地时间1月28日，美联储主席鲍威尔表示，建议下一届美联储主席与美国政治“划清界限”。",
+        "status": "pending"
     }
 ]
