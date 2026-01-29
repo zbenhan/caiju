@@ -5861,5 +5861,38 @@
         "time": "16:00:49",
         "abstract": "美国国务院发言人作出回应，承认有过相关会面，但美方并“未作出任何承诺”。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "欧盟宣布制裁伊朗官员和实体 将伊斯兰革命卫队列为“恐怖组织”",
+        "url": "https://world.huanqiu.com/article/4Q9xnuVHR6S",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "18:01:01",
+        "abstract": "欧盟外交与安全政策高级代表卡拉斯说，欧盟已决定将伊朗伊斯兰革命卫队列为“恐怖组织”。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "中国驻米兰总领馆：提醒中国公民冬奥会期间注意出行安全",
+        "url": "https://world.huanqiu.com/article/4Q9xu3hFhpA",
+        "source": "中国驻米兰总领事馆",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "18:01:01",
+        "abstract": "中国驻米兰总领馆提醒来意中国公民冬奥会期间注意出行提示，采取防范措施，确保安全",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "冬季风暴肆虐 葡萄牙一空军基地多架战机受损",
+        "url": "https://world.huanqiu.com/article/4Q9xkeNtAhD",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "18:01:01",
+        "abstract": "至少4架F-16战机受损，部分设施和车辆亦遭破坏。初步估计经济损失达数百万欧元。",
+        "status": "pending"
     }
 ]
