@@ -5894,5 +5894,49 @@
         "time": "18:01:01",
         "abstract": "至少4架F-16战机受损，部分设施和车辆亦遭破坏。初步估计经济损失达数百万欧元。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "美总统特使：美乌正在讨论领土问题",
+        "url": "https://world.huanqiu.com/article/4QA3FO4VTs4",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "20:01:48",
+        "abstract": "美国同乌克兰的谈判取得很大进展，双方正在讨论领土问题。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "特朗普称美方计划重新开放委内瑞拉领空",
+        "url": "https://world.huanqiu.com/article/4QA3MVIG65d",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "20:01:48",
+        "abstract": "美方计划开放委内瑞拉领空。特朗普还表示，多家美国大型石油公司将前往实地进行勘察。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "特朗普计划下周公布美联储下任主席提名",
+        "url": "https://world.huanqiu.com/article/4QA3GSf95fv",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "20:01:48",
+        "abstract": "美国总统特朗普在29日举行的内阁会议上表示，他将在下周公布美国联邦储备委员会下一任主席的提名人选。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "美参议院未能推进拨款法案 联邦政府再次面临“停摆”危机",
+        "url": "https://world.huanqiu.com/article/4QA3ERJySI5",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-01-29",
+        "time": "20:01:48",
+        "abstract": "美国国会参议院29日在程序性投票中未能推进已获众议院通过的政府拨款法案，美国联邦政府再次面临部分“停摆”的危机。",
+        "status": "pending"
     }
 ]
