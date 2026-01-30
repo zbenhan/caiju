@@ -7555,5 +7555,49 @@
         "time": "18:00:54",
         "abstract": "",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "委内瑞拉外交部：美对古巴相关措施直接侵犯贸易自由",
+        "url": "https://world.huanqiu.com/article/4QAyWSH1NlD",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-30",
+        "time": "22:01:35",
+        "abstract": "声明表示，美国针对古巴的相关措施，是对贸易自由的直接侵犯，同时也是对各国自主选择经济伙伴主权的威胁。委方指出，此类做法公然违反国际法以及国际经贸往来应遵循的基本原则。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "特朗普称希望与伊朗达成协议",
+        "url": "https://world.huanqiu.com/article/4QAyRRBmXgZ",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-30",
+        "time": "22:01:35",
+        "abstract": "特朗普称，美国希望与伊朗达成协议，若无法达成，“将拭目以待事态发展”。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "“伊斯兰国”宣称对尼日尔首都机场遭袭事件负责",
+        "url": "https://world.huanqiu.com/article/4QAyO63GZUh",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-30",
+        "time": "22:01:35",
+        "abstract": "极端组织“伊斯兰国”在当地时间1月30日的一份声明中宣称对尼日尔首都机场遭袭事件负责。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "受严寒天气影响 美载人绕月飞行任务被推迟",
+        "url": "https://world.huanqiu.com/article/4QAyPnkQwNR",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-01-30",
+        "time": "22:01:35",
+        "abstract": "当地时间1月30日，美国国家航空航天局表示，受发射场接近冰点的低温天气影响，已决定推迟“阿耳忒弥斯”计划的首次载人绕月任务。",
+        "status": "pending"
     }
 ]
