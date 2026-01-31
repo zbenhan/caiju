@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   const [news, setNews] = useState([])
   const [loading, setLoading] = useState(true)
-  const [activeTab, setActiveTab] = useState('国内')
+  const [activeTab, setActiveTab] = useState('财经')
   const [showDonation, setShowDonation] = useState(false)
 
   useEffect(() => {
@@ -67,7 +67,7 @@ function App() {
 
       <main>
         <div className="tabs">
-          {['国际', '国内', '区域', '以前'].map((tab) => (
+          {['国际', '投资', '财经', '区域', '以前'].map((tab) => (
             <button
               key={tab}
               className={`tab-btn ${activeTab === tab ? 'active' : ''}`}
