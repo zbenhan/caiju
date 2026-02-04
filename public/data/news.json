@@ -9128,5 +9128,49 @@
         "time": "16:02:32",
         "abstract": "美国边境事务主管汤姆·霍曼表示，特朗普政府将立即从明尼苏达州撤回约700名联邦移民执法人员。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "泽连斯基：三方谈判将继续 预计很快会交换战俘",
+        "url": "https://world.huanqiu.com/article/4QF3PX5tkqX",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-04",
+        "time": "20:02:18",
+        "abstract": "泽连斯基表示，乌克兰立场非常明确，必须切实结束这场冲突。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "俄外交部：俄美不再受《新削减战略武器条约》任何义务约束",
+        "url": "https://world.huanqiu.com/article/4QF3MjF0J5F",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-04",
+        "time": "20:02:18",
+        "abstract": "俄方迄今为止没有通过双边渠道收到美国对俄罗斯倡议的任何正式回应。这也就意味着俄方的想法被故意置之不理。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+        "url": "https://world.huanqiu.com/article/4QF3K3Lynhc",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-04",
+        "time": "20:02:18",
+        "abstract": "瑞安·劳斯此前已被定罪，罪名涉及策划并企图对特朗普实施袭击。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "美国务卿：俄乌谈判取得进展 但最棘手问题仍未解决",
+        "url": "https://world.huanqiu.com/article/4QF3Hv6MP1D",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-04",
+        "time": "20:02:18",
+        "abstract": "鲁比奥表示，乌克兰与俄罗斯之间的和平谈判已取得一定进展，但剩余的议题也是“最困难的部分”，短期内难以实现突破。",
+        "status": "pending"
     }
 ]
