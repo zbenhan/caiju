@@ -9172,5 +9172,49 @@
         "time": "16:02:17",
         "abstract": "",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "刚果（布）总统萨苏宣布参加2026年总统选举",
+        "url": "https://world.huanqiu.com/article/4QFoc1QJkoA",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-05",
+        "time": "18:02:01",
+        "abstract": "萨苏表示，他参加将于3月举行的总统选举，旨在继续推动其在2021年发起的农业发展计划。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "印度东北部一煤矿爆炸造成至少18人死亡",
+        "url": "https://world.huanqiu.com/article/4QFoZl7uWYf",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-05",
+        "time": "18:02:01",
+        "abstract": "印度媒体5日报道称，印度东北部梅加拉亚邦一处煤矿当日发生爆炸，造成至少18名工人死亡。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "英国莱斯特市中心持刀伤人案受害者身份已确认",
+        "url": "https://world.huanqiu.com/article/4QFoYGTkKzu",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-05",
+        "time": "18:02:01",
+        "abstract": "警方表示，奥拉迪波在莱斯特市中心遭人持刀袭击，后经抢救无效身亡。目前，一名18岁男子已因涉嫌谋杀被警方逮捕，案件仍在进一步调查中。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "古巴国家主席：古美对话前提是美停止施压并尊重古主权、独立和自决权",
+        "url": "https://world.huanqiu.com/article/4QFoWt2Dyb6",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-05",
+        "time": "18:02:01",
+        "abstract": "古巴国家主席迪亚斯-卡内尔召开记者会表示，古巴愿意在美国停止施压、并尊重古巴主权、独立和自决权的前提下，同美国开展对话，愿意就任何希望讨论或交流的议题展开对话。",
+        "status": "pending"
     }
 ]
