@@ -9348,5 +9348,49 @@
         "time": "18:02:07",
         "abstract": "2月6日晚间沪深上市公司重大事项公告最新快递。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "佩斯科夫：暂无在美国举行新一轮乌克兰问题谈判计划",
+        "url": "https://world.huanqiu.com/article/4QGfdz7mzFh",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-06",
+        "time": "20:01:19",
+        "abstract": "佩斯科夫当地时间6日表示，目前没有在美国举行新一轮乌克兰问题谈判的计划，双方也从未就此进行过讨论。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "我驻巴使馆：暂无中国公民在巴基斯坦清真寺爆炸事件中死亡",
+        "url": "https://world.huanqiu.com/article/4QGffofMPIC",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-06",
+        "time": "20:01:19",
+        "abstract": "截至6日，没有中国公民在当天巴基斯坦首都伊斯兰堡爆炸事件中死亡的报告。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "美国逮捕一名袭击美驻利比亚领事馆嫌疑人",
+        "url": "https://world.huanqiu.com/article/4QGfYsoXi6i",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-06",
+        "time": "20:01:19",
+        "abstract": "美国已逮捕一名涉嫌参与2012年袭击美国驻利比亚班加西领事馆的人员。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "美宣布对与伊朗石油贸易相关实体和油轮实施制裁",
+        "url": "https://world.huanqiu.com/article/4QGfXLbQuxw",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-06",
+        "time": "20:01:19",
+        "abstract": "美国对多个与伊朗石油贸易有关的实体、个人和油轮实施制裁，以打击伊朗“石油非法贸易商”和“影子船队”。",
+        "status": "pending"
     }
 ]
