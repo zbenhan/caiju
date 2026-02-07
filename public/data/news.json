@@ -7830,5 +7830,60 @@
         "time": "14:02:51",
         "abstract": "中新网绍兴2月7日电(项菁)山高路远、资源掣肘，常被视为内陆山区县的先天短板。随着新思路、新打法持续破局，诸多县域迎来新增长点。...",
         "status": "pending"
+    },
+    {
+        "id": "中国新闻网_1",
+        "title": "阿富汗一客运车辆坠入山谷致至少12人死亡",
+        "url": "http://www.chinanews.com.cn/gj/2026/02-07/10568084.shtml",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-07",
+        "time": "16:02:37",
+        "abstract": "新华社快讯：阿富汗官员7日表示，阿富汗北部巴达赫尚省一客运车辆坠入山谷，造成至少12人死亡、3人受伤。...",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "泽连斯基：有效安全保障是实现和平的重要基础之一",
+        "url": "https://world.huanqiu.com/article/4QHPP4wO8pC",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-07",
+        "time": "16:02:37",
+        "abstract": "乌克兰需要达成实质性成果，而实现和平解决的最重要基础之一是有效的安全保障。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "哈马斯谴责以方破坏停火协议",
+        "url": "https://world.huanqiu.com/article/4QHPG96cjis",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-07",
+        "time": "16:02:37",
+        "abstract": "以色列持续升级在加沙地带的军事行动，严重破坏停火协议，无视调解方及美国政府为推动停火所作的努力。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "克林顿夫妇要求就爱泼斯坦案公开作证",
+        "url": "https://world.huanqiu.com/article/4QHNihnoDWN",
+        "source": "新华社",
+        "tag": "国际",
+        "date": "2026-02-07",
+        "time": "16:02:37",
+        "abstract": "美国民主党籍前总统克林顿及其妻子、前国务卿希拉里连日发声，要求以公开形式就爱泼斯坦案在国会接受调查问询，而非闭门听证，以防止共和党将这一问题政治化。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "泽连斯基：不支持违反乌克兰宪法的和平协议",
+        "url": "https://world.huanqiu.com/article/4QHMmmrCDAh",
+        "source": "新华社",
+        "tag": "国际",
+        "date": "2026-02-07",
+        "time": "16:02:37",
+        "abstract": "泽连斯基说，俄乌冲突必须以“有尊严和可靠的方式”结束。",
+        "status": "pending"
     }
 ]
