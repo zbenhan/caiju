@@ -64,15 +64,8 @@ main {
   overflow-x: auto;
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
   width: 100%;
   box-sizing: border-box;
-}
-
-.tabs::-webkit-scrollbar {
-  width: 0;
-  height: 0;
 }
 
 
@@ -567,6 +560,20 @@ main {
     padding-left: var(--spacing-md);
     padding-right: var(--spacing-md);
     gap: var(--spacing-xs);
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
+  .tabs::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+  
+  /* 禁止手机版页面左右移动 */
+  body {
+    overflow-x: hidden;
+    width: 100%;
+    position: relative;
   }
   
   .tab-btn {
