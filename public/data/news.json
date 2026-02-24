@@ -6026,5 +6026,49 @@
         "time": "18:02:13",
         "abstract": "美东时间周二，美股三大指数上涨，截至发稿，道指涨0.79%，纳指涨1.12%，标普500指数涨0.76%。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "佩斯科夫：俄仍对继续推进乌克兰和平进程持开放态度",
+        "url": "https://world.huanqiu.com/article/4QVd8hHQuGM",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-24",
+        "time": "20:01:33",
+        "abstract": "尽管乌克兰在部分欧洲国家的鼓动下正计划采取“近乎疯狂”的举措，俄罗斯仍对继续推进乌克兰问题和平进程持开放态度。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "法国卢浮宫馆长向总统递交辞呈",
+        "url": "https://world.huanqiu.com/article/4QVdBEeCJIy",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-24",
+        "time": "20:01:33",
+        "abstract": "法国总统府宣布，卢浮宫馆长洛朗丝·德卡尔向总统马克龙递交辞职信。马克龙已接受辞呈。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "巴基斯坦与阿富汗再度发生边境交火",
+        "url": "https://world.huanqiu.com/article/4QVd6luXVxH",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-24",
+        "time": "20:01:33",
+        "abstract": "巴基斯坦与阿富汗部队当天夜间在巴阿边境沿线多点发生交火，目前交火正在进行中。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "莫斯科火车站爆炸案嫌疑人身份已被确认",
+        "url": "https://world.huanqiu.com/article/4QVd48zX61Z",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-24",
+        "time": "20:01:33",
+        "abstract": "调查人员已确定了该嫌疑人在莫斯科地区的行踪路线，正在彻查嫌疑人的社交圈及其作案动机。",
+        "status": "pending"
     }
 ]
