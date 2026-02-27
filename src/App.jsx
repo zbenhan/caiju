@@ -36,6 +36,7 @@ function App() {
     title: '',
     content: ''
   })
+  const [searchQuery, setSearchQuery] = useState('')
 
   const handleNewsClick = (item) => {
     console.log(`[Analytics] User clicked on: ${item.id} - ${item.title}`)
@@ -48,6 +49,18 @@ function App() {
 
   const closeModal = () => {
     setModalVisible(false)
+  }
+
+  const handleSearchSubmit = (e) => {
+    e.preventDefault()
+    if (searchQuery.trim()) {
+      // 构造Bing搜索URL
+      const searchUrl = `https://www.bing.com/search?q=${encodeURIComponent(searchQuery)}`
+      // 在新窗口打开搜索结果
+      window.open(searchUrl, '_blank')
+      // 重置搜索输入框
+      setSearchQuery('')
+    }
   }
 
   const pageContents = {
@@ -64,6 +77,21 @@ function App() {
           <h1>财信聚合 - caiju.link</h1>
         </div>
       </header>
+
+      <div className="search-container">
+        <form onSubmit={handleSearchSubmit} className="bing-search-form">
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder="Bing搜索"
+            className="search-input"
+          />
+          <button type="submit" className="search-button">
+            搜索
+          </button>
+        </form>
+      </div>
 
       <main>
         <div className="tabs">
