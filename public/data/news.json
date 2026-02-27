@@ -9073,5 +9073,27 @@
         "time": "16:02:59",
         "abstract": "",
         "status": "pending"
+    },
+    {
+        "id": "东方财富网_9",
+        "title": "2月27日晚间沪深上市公司重大事项公告最新快递",
+        "url": "https://finance.eastmoney.com/a/202602273656892730.html",
+        "source": "东方财富Choice数据",
+        "tag": "投资",
+        "date": "2026-02-27",
+        "time": "18:02:26",
+        "abstract": "2月27日晚间沪深上市公司重大事项公告最新快递。",
+        "status": "pending"
+    },
+    {
+        "id": "东方财富网_18",
+        "title": "美股三大指数集体下跌 纳指跌超1% 金价创2月来新高",
+        "url": "https://finance.eastmoney.com/a/202602273657059192.html",
+        "source": "东方财富Choice数据",
+        "tag": "投资",
+        "date": "2026-02-27",
+        "time": "18:02:26",
+        "abstract": "美股三大指数集体下跌，多邻国跌超15%，公司第一季度和全年预订量展望低于预期。奈飞涨逾10%，公司退出华纳兄弟竞购战。",
+        "status": "pending"
     }
 ]
