@@ -9095,5 +9095,49 @@
         "time": "18:02:26",
         "abstract": "美股三大指数集体下跌，多邻国跌超15%，公司第一季度和全年预订量展望低于预期。奈飞涨逾10%，公司退出华纳兄弟竞购战。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "中国驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
+        "url": "https://world.huanqiu.com/article/4QY6i8RVdxs",
+        "source": "中国驻伊朗大使馆",
+        "tag": "国际",
+        "date": "2026-02-27",
+        "time": "20:01:29",
+        "abstract": "如遇紧急情况，请及时向当地警方报警，并与驻伊朗使领馆联系。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "伊拉克和伊朗外长通话 强调应通过谈判解决分歧",
+        "url": "https://world.huanqiu.com/article/4QY8jqgMRsz",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-27",
+        "time": "20:01:29",
+        "abstract": "双方强调通过谈判解决问题是最恰当的方式，呼吁避免地区局势升级和战争风险、维护地区安全与稳定。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "俄联邦通信监督局称其官网及国防部网站遭网络攻击",
+        "url": "https://world.huanqiu.com/article/4QY6VNLS8Of",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-27",
+        "time": "20:01:29",
+        "abstract": "俄联邦通信监督局称其官网及国防部网站遭网络攻击",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "菲前总统杜特尔特听证会结束 国际刑事法院将在60日内裁决",
+        "url": "https://world.huanqiu.com/article/4QY6Yev6Ahx",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-27",
+        "time": "20:01:29",
+        "abstract": "这一听证会旨在审查检方提交的证据是否具备充分依据，以决定是否将案件提交另一审判分庭进入正式审判程序。",
+        "status": "pending"
     }
 ]
