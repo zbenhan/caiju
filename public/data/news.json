@@ -9172,5 +9172,49 @@
         "time": "16:02:54",
         "abstract": "阿联酋防空系统拦截了针对该国目标的第三波导弹攻击。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "巴林一栋高层建筑遭无人机袭击",
+        "url": "https://world.huanqiu.com/article/4QYuUdOPm2A",
+        "source": "环球时报-环球网",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "18:01:37",
+        "abstract": "巴林一栋高层建筑遭遇无人机袭击，“据报道有人员伤亡”。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "迪拜朱美拉棕榈岛事故造成4人受伤",
+        "url": "https://world.huanqiu.com/article/4QYut7URADo",
+        "source": "环球时报-环球网",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "18:01:37",
+        "abstract": "经中国驻迪拜总领馆证实，目前没有收到此次事件中有关中国公民伤亡的报告。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "中国驻伊朗大使馆：3月1日起暂停办理签证、认证等领事证件业务",
+        "url": "https://world.huanqiu.com/article/4QYsFBFZlFP",
+        "source": "中国驻伊朗大使馆",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "18:01:37",
+        "abstract": "中国驻伊朗大使馆自2026年3月1日（星期日）起暂停办理签证、认证等领事证件业务，恢复日期另行通知。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "伊朗外交部说遇袭小学150至160人死亡",
+        "url": "https://world.huanqiu.com/article/4QYrSHnjSLi",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "18:01:37",
+        "abstract": "在美国和以色列军事行动中遭袭的伊朗小学死亡人数达到150至160人。",
+        "status": "pending"
     }
 ]
