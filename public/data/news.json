@@ -9216,5 +9216,49 @@
         "time": "18:01:37",
         "abstract": "在美国和以色列军事行动中遭袭的伊朗小学死亡人数达到150至160人。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "约旦外相称伊朗对该国进行的袭击“没有理由”",
+        "url": "https://world.huanqiu.com/article/4QYvdVUwLnB",
+        "source": "环球时报-环球网",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "20:02:15",
+        "abstract": "约旦副首相兼外交大臣萨法迪称，伊朗对该国进行的袭击“没有理由”。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "埃尔多安谴责美以袭击伊朗 呼吁各方保持理性",
+        "url": "https://world.huanqiu.com/article/4QYxhFAWS8r",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "20:02:15",
+        "abstract": "埃尔多安对美以侵犯伊朗主权的行为深表“悲痛和关切”，并敦促各方立即采取措施，停止流血冲突。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "伊朗媒体：伊朗最高领袖正坐镇指挥",
+        "url": "https://world.huanqiu.com/article/4QYxg1dCU86",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "20:02:15",
+        "abstract": "一名知情人士透露，伊朗最高领袖哈梅内伊已进入作战指挥室，负责指挥作战，就像去年与以色列“十二日战争”期间一样。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "美官员：美军使用“战斧”导弹压制伊朗防空系统",
+        "url": "https://world.huanqiu.com/article/4QYvXXSp6UR",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-02-28",
+        "time": "20:02:15",
+        "abstract": "两名美国官员透露称，美军在对伊朗的打击行动中使用了“战斧”巡航导弹压制伊朗防空系统。此外，美军还使用了单向攻击无人机。",
+        "status": "pending"
     }
 ]
