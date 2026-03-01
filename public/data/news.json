@@ -9150,5 +9150,49 @@
         "time": "16:03:46",
         "abstract": "18名中国公民3月1日从伊朗经阿塞拜疆南部阿斯塔拉口岸撤离至阿境内。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "伊朗外长：伊方无意攻击邻国政府 而是打击美军基地",
+        "url": "https://world.huanqiu.com/article/4QZjPjKkv7P",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-01",
+        "time": "18:02:06",
+        "abstract": "当地时间3月1日，伊朗外交部长阿拉格齐强调，伊朗没有意愿攻击海湾地区的邻国政府，而是攻击了这些国家的美国基地。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "为稳定提供公共服务 伊朗政府成立多个专家委员会",
+        "url": "https://world.huanqiu.com/article/4QZjOgK2woa",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-01",
+        "time": "18:02:06",
+        "abstract": "伊朗政府新闻局发布第3号公告。公告称，在沉痛哀悼哈梅内伊遇难之际，政府信息委员会宣布已成立多个专家委员会，旨在确保在战争状态下各项公共服务的“持续稳定供应”。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "伊朗外长回应美总统“不要报复”言论：伊方有权自卫",
+        "url": "https://world.huanqiu.com/article/4QZjMgtE3FN",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-01",
+        "time": "18:02:06",
+        "abstract": "阿拉格齐表示，伊朗正在自卫，伊朗完全有权利，有完全合法的权利进行自我防卫。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "特朗普称同意与伊朗新领导层对话",
+        "url": "https://world.huanqiu.com/article/4QZjKEvufL4",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-01",
+        "time": "18:02:06",
+        "abstract": "美国总统特朗普称，伊朗新领导层希望恢复谈判，他已同意进行对话。",
+        "status": "pending"
     }
 ]
