@@ -9194,5 +9194,27 @@
         "time": "18:02:06",
         "abstract": "美国总统特朗普称，伊朗新领导层希望恢复谈判，他已同意进行对话。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "受袭击影响 伊朗多个电视频道播出信号消失",
+        "url": "https://world.huanqiu.com/article/4QZlaHciMPS",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-01",
+        "time": "20:02:00",
+        "abstract": "受袭击影响，伊朗国家电视台多个频道目前没有播出信号。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "伊朗称若能源设施遭袭 该地区所有国家油气设施都将被毁",
+        "url": "https://world.huanqiu.com/article/4QZlZ1kBISr",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-01",
+        "time": "20:02:00",
+        "abstract": "当地时间3月1日，伊朗伊斯兰革命卫队发出警告，如果伊朗的石油和天然气设施遭到袭击，作为回应，该地区所有国家的油气设施都将被摧毁。",
+        "status": "pending"
     }
 ]
