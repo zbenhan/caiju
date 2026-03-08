@@ -6037,5 +6037,49 @@
         "time": "18:01:29",
         "abstract": "",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "伊朗外长致信联合国安理会 呼吁采取措施制止当前战争行为",
+        "url": "https://world.huanqiu.com/article/4QfYqpkwbum",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-08",
+        "time": "20:00:56",
+        "abstract": "采取适当措施制止当前战争行为，并确保美国及其总统承担应有责任，防止国际法进一步被侵犯。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "堪察加东岸远海发生6.0级地震",
+        "url": "https://world.huanqiu.com/article/4QfYlqJRu4A",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-08",
+        "time": "20:00:56",
+        "abstract": "中国地震台网正式测定：3月9日1时8分在堪察加东岸远海（北纬51.55度，东经159.70度）发生6.0级地震，震源深度40公里。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "伊朗称美国袭击“德纳”号护卫舰已造成104死32伤",
+        "url": "https://world.huanqiu.com/article/4QfYkmiQvhd",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-08",
+        "time": "20:00:56",
+        "abstract": "本月4日美国海军对执行训练任务的“德纳”号护卫舰发动袭击，已造成104名伊朗官兵牺牲、32人受伤。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "伊拉克库区政党主席：已与伊美土高层沟通寻求缓和地区紧张局势",
+        "url": "https://world.huanqiu.com/article/4QfYjEAf2oM",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-08",
+        "time": "20:00:56",
+        "abstract": "声明称，鉴于美国总统和伊朗总统的表态，库区期待该地区紧张局势能够有所缓和。",
+        "status": "pending"
     }
 ]
