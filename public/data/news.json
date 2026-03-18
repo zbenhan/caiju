@@ -9205,5 +9205,49 @@
         "time": "16:01:54",
         "abstract": "美国新墨西哥州一处空军基地发生枪击事件，造成1人死亡、1人受伤。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "中国驻沙特大使馆：提醒在沙特中国公民注意安全",
+        "url": "https://world.huanqiu.com/article/4QnrWLnIQCH",
+        "source": "中国驻沙特大使馆",
+        "tag": "国际",
+        "date": "2026-03-18",
+        "time": "20:01:27",
+        "abstract": "如遇紧急情况，请报警并联系中国驻沙特大使馆、驻吉达总领馆寻求协助。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "西班牙宣布释放战略石油储备",
+        "url": "https://world.huanqiu.com/article/4QnrLJgS9Sq",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-03-18",
+        "time": "20:01:27",
+        "abstract": "西班牙政府17日宣布部分释放国家战略石油储备，以应对美以军事打击伊朗以来霍尔木兹海峡被封锁对能源市场带来的冲击。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "中外科学家成功构建可编程细胞分化与比例控制平台",
+        "url": "https://world.huanqiu.com/article/4QnrCNalTWK",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-18",
+        "time": "20:01:27",
+        "abstract": "该成果3月19日在国际学术期刊《自然》发表。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "委内瑞拉任命新国防部长",
+        "url": "https://world.huanqiu.com/article/4QnrEOFufSA",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-18",
+        "time": "20:01:27",
+        "abstract": "当地时间3月18日，委内瑞拉代总统德尔西·罗德里格斯宣布，古斯塔沃·冈萨雷斯·洛佩斯将接替帕德里诺·洛佩斯出任国防部长。",
+        "status": "pending"
     }
 ]
