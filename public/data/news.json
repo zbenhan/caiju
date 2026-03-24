@@ -7643,5 +7643,38 @@
         "time": "16:01:32",
         "abstract": "",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "俄外长：中东局势升级源于少数西方国家试图维持其霸权地位",
+        "url": "https://world.huanqiu.com/article/4Qslj0eJCtx",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-03-24",
+        "time": "18:02:35",
+        "abstract": "俄罗斯外长拉夫罗夫24日表示，中东局势升级直接源于少数西方国家企图通过武力维持其残存的霸权地位。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "捷克军工企业纵火案3名嫌疑人被捕",
+        "url": "https://world.huanqiu.com/article/4Qslhu1nC37",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-03-24",
+        "time": "18:02:35",
+        "abstract": "捷克警方24日在社交媒体宣布，3名涉嫌在捷克东部城市帕尔杜比采一家军工企业蓄意纵火的嫌疑人已被逮捕，其中包括捷克籍和美国籍公民。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "国际原子能机构称扎波罗热核电站失去与主输电线路连接",
+        "url": "https://world.huanqiu.com/article/4QslfWbg33z",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-24",
+        "time": "18:02:35",
+        "abstract": "国际原子能机构24日称，扎波罗热核电站当天失去了与750千伏主输电线路的连接，目前依赖唯一的备用供电线路维持外部电力供应。",
+        "status": "pending"
     }
 ]
