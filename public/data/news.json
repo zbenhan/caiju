@@ -7687,5 +7687,16 @@
         "time": "20:02:22",
         "abstract": "",
         "status": "pending"
+    },
+    {
+        "id": "中国新闻网_5",
+        "title": "王毅同伊朗外长阿拉格齐通电话",
+        "url": "http://www.chinanews.com.cn/gj/2026/03-24/10592192.shtml",
+        "source": "新华社",
+        "tag": "国际",
+        "date": "2026-03-24",
+        "time": "22:01:35",
+        "abstract": "新华社北京3月24日电 中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。...",
+        "status": "pending"
     }
 ]
