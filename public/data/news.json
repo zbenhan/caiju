@@ -8996,5 +8996,16 @@
         "time": "16:05:21",
         "abstract": "美国财政部网站显示，美国解除了对白俄罗斯十余家实体制裁。",
         "status": "pending"
+    },
+    {
+        "id": "东方财富网_9",
+        "title": "3月26日晚间沪深上市公司重大事项公告最新快递",
+        "url": "https://finance.eastmoney.com/a/202603263685773579.html",
+        "source": "东方财富Choice数据",
+        "tag": "投资",
+        "date": "2026-03-26",
+        "time": "18:02:08",
+        "abstract": "3月26日晚间沪深上市公司重大事项公告最新快递。",
+        "status": "pending"
     }
 ]
