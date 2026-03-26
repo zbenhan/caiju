@@ -9007,5 +9007,49 @@
         "time": "18:02:08",
         "abstract": "3月26日晚间沪深上市公司重大事项公告最新快递。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "俄美议员时隔数年在华盛顿会晤 俄方称“比预期好”",
+        "url": "https://world.huanqiu.com/article/4QuWwdvNHzJ",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-26",
+        "time": "20:02:22",
+        "abstract": "俄美议员在华盛顿举行了近几年来首次会晤，“目前情况比我预期的要好。”",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "美众议院军事委员会通过法案 强制要求军用飞机配备防撞技术",
+        "url": "https://world.huanqiu.com/article/4QuWulkDgUG",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-26",
+        "time": "20:02:22",
+        "abstract": "该委员会要求，除战斗机、轰炸机和无人机外，所有军用飞机必须在2031年之前安装防撞技术。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_17",
+        "title": "挪威一加油站发生火灾并引发爆炸 约800人被疏散",
+        "url": "https://world.huanqiu.com/article/4QuWsdRrsMI",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-03-26",
+        "time": "20:02:22",
+        "abstract": "挪威西芬马克郡厄克斯峡湾一加油站发生重大火灾。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_18",
+        "title": "德国汉堡一公交车撞树致16人受伤",
+        "url": "https://world.huanqiu.com/article/4QuWneut4GJ",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-03-26",
+        "time": "20:02:22",
+        "abstract": "一辆公交车迎头撞上路边树木，造成至少16人受伤。其中，包括69岁的司机在内的两人伤势严重。",
+        "status": "pending"
     }
 ]
