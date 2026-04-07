@@ -6378,5 +6378,27 @@
         "time": "18:01:03",
         "abstract": "伊朗已停止与美国的谈判努力，并通知巴基斯坦，称伊方将不再参与和停火相关的对话。",
         "status": "pending"
+    },
+    {
+        "id": "环球网_15",
+        "title": "中国驻卡塔尔大使馆：​再次提醒在卡中国公民进一步加强安全防范",
+        "url": "https://world.huanqiu.com/article/4R4V2zcrY3h",
+        "source": "中国驻卡塔尔大使馆",
+        "tag": "国际",
+        "date": "2026-04-07",
+        "time": "20:01:49",
+        "abstract": "如遇紧急情况，请第一时间报警，并及时与中国驻卡塔尔大使馆联系。",
+        "status": "pending"
+    },
+    {
+        "id": "环球网_16",
+        "title": "中国驻以色列大使馆再次提示中国公民加强安全防范",
+        "url": "https://world.huanqiu.com/article/4R4V0BuepMb",
+        "source": "新华网",
+        "tag": "国际",
+        "date": "2026-04-07",
+        "time": "20:01:49",
+        "abstract": "中国驻以色列大使馆7日发表声明说，中东安全形势急剧恶化，提醒在以中国公民加强安全防范。",
+        "status": "pending"
     }
 ]
