@@ -14694,5 +14694,27 @@
         "time": "16:02:25",
         "abstract": "双方讨论了各领域双边关系与合作以及地区和国际形势。",
         "status": "pending"
+    },
+    {
+        "id": "中国新闻网_2",
+        "title": "伊朗代表团已离开巴基斯坦",
+        "url": "http://www.chinanews.com.cn/gj/2026/04-25/10610951.shtml",
+        "source": "央视新闻客户端",
+        "tag": "国际",
+        "date": "2026-04-25",
+        "time": "22:01:55",
+        "abstract": "当地时间25日，总台记者获悉，伊朗代表团已离开巴基斯坦。...",
+        "status": "pending"
+    },
+    {
+        "id": "东方财富网_9",
+        "title": "涨价一触即发 2万亿芯片巨头火了！下游需求激增 CPU重回AI核心 A股布局公司出炉",
+        "url": "https://finance.eastmoney.com/a/202604253719033270.html",
+        "source": "东方财富网",
+        "tag": "投资",
+        "date": "2026-04-25",
+        "time": "22:01:55",
+        "abstract": "",
+        "status": "pending"
     }
 ]
